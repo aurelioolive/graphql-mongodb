@@ -13,4 +13,3 @@ import { LessonModule } from './lesson/lesson.module';
   providers: [],
 })
 export class AppModule {}
-``
