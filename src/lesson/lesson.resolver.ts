@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/explicit-module-boundary-types */
 import { Resolver, Query, Mutation, Args } from "@nestjs/graphql";
 import { LessonType } from './lesson.type';
 import { LessonService } from './lesson.service';
